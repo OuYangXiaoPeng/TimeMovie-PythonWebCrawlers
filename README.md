@@ -14,7 +14,6 @@
 
 可视化：
 可以把获取到的电影数据进行分析，然后生成图表
-
 评分分布直方图
 <img width="716" height="529" alt="image" src="https://github.com/user-attachments/assets/3bf40e19-20f8-4af9-84ad-37fde9779add" />
 
@@ -26,6 +25,7 @@
 
 年份趋势折线图
 <img width="749" height="378" alt="image" src="https://github.com/user-attachments/assets/b49b22b3-b243-4915-a819-075638b140bb" />
+
 
 制片国家分布饼图
 <img width="647" height="435" alt="image" src="https://github.com/user-attachments/assets/25a8c7fd-0b72-4537-a2d5-ebe8c559de7b" />
